@@ -2,7 +2,7 @@ apt-get install python3
 
 apt-get install git
 
-permintaan penginstalan pip3
+pip3 install requests
 
 pip3 instal coloram
 
